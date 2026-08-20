@@ -5,7 +5,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from dotenv import load_dotenv
 
-from retriever import get_retriever
+from src.retriever import get_retriever
 
 load_dotenv()
 

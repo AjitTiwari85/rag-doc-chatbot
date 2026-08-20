@@ -1,4 +1,4 @@
-from vectorstore import load_vectorstore
+from src.vectorstore import load_vectorstore
 
 
 def get_retriever(k: int = 3):

@@ -8,3 +8,6 @@ python-dotenv
 streamlit
 langchain-huggingface
 sentence-transformers
+fastapi
+uvicorn
+python-multipart
