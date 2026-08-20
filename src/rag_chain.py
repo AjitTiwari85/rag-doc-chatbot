@@ -47,7 +47,7 @@ Answer:"""
 if __name__ == "__main__":
     chain = build_rag_chain(k=3)
 
-    question = "What is this document about?"
+    question = "What is the refund policy timeline?"
     answer = chain.invoke(question)
 
     print(f"Question: {question}")
