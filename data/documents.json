@@ -4,11 +4,5 @@
     "filename": "download.pdf",
     "chunks": 40,
     "created_at": "2026-08-21T22:34:43.104462+00:00"
-  },
-  {
-    "id": "fee29b68-0319-4d51-a394-2852dc65e9ba",
-    "filename": "sample.pdf",
-    "chunks": 1,
-    "created_at": "2026-08-21T22:36:13.418820+00:00"
   }
 ]
